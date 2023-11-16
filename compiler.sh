@@ -8,7 +8,7 @@ pkg install openjdk-17
 pkg install kotlin
 echo "1" > condition.txt
 else
-echo "all files updated"
+echo ">~<"
 fi
 GREEN='\033[0;36m'
 RED='\033[1;33m'
