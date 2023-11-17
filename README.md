@@ -7,7 +7,7 @@
 
 `cd ~`<br>
 `pkg install git`<br>
-`git clone https://github.com/imam1912/KotMux.git`
+`git clone https://github.com/imam1912/KotMux.git`<br>
 `cd KotMux`<br>
 `bash compiler.sh`
 
