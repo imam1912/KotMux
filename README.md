@@ -15,3 +15,5 @@
 
 
 [YouTube Tutorial](https://youtu.be/Yh1iwORcRI0?si=aheY13HPLK2x-1kF)
+
+https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=javascript
