@@ -6,9 +6,9 @@
 # Installation Command
 
 `cd ~`<br>
-`pkg install git`
+`pkg install git`<br>
 `git clone https://github.com/imam1912/KotMux.git`
-`cd KotMux`
+`cd KotMux`<br>
 `bash compiler.sh`
 
 >After installing the script for the first time just run the script using `bash compiler.sh` and put your *Kotlin* file path like `/storage/emulated/0/Kotlin/main.kt` and it will compile the file.
