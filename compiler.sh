@@ -38,7 +38,7 @@ echo "                                      "
 
 #Hint for user input!
 
-echo -e "${YELLOW}Which Project You Want to Compile?"
+echo -e "${YELLOW}Enter Your Kotlin File Path Here : "
 
 echo "                                      "
 
