@@ -11,6 +11,10 @@
 `cd KotMux`<br>
 `bash compiler.sh`
 
+# Preview
+
+<img src="https://i.ibb.co/Wsn30Vk/Screenshot-2023-11-17-18-19-36-38-84d3000e3f4017145260f7618db1d683.jpg">
+
 >After installing the script for the first time just run the script using `bash compiler.sh` and put your *Kotlin* file path like `/storage/emulated/0/Kotlin/main.kt` and it will compile the file.
 
 
