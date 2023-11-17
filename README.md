@@ -5,7 +5,7 @@
 
 # Installation Command
 
-`cd ~`
+`cd ~`<br>
 `pkg install git`
 `git clone https://github.com/imam1912/KotMux.git`
 `cd KotMux`
