@@ -16,4 +16,4 @@
 
 [YouTube Tutorial](https://youtu.be/Yh1iwORcRI0?si=aheY13HPLK2x-1kF)
 
-<img src="https://img.shields.io/badge/Join Telegram Group-grey?style=for-the-badge&logo=telegram">
+<a href="https://t.me/noob_basher" target="_blank"><img src="https://img.shields.io/badge/Join Telegram Group-grey?style=for-the-badge&logo=telegram"></a>
