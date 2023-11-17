@@ -14,4 +14,4 @@
 >After installing the script for the first time just run the script using `bash compiler.sh` and put your *Kotlin* file path like `/storage/emulated/0/Kotlin/main.kt` and it will compile the file.
 
 
-[YouTube Tutorial](https://youtu.be/Yh1iwORcRI0?si=aheY13HPLK2x-1kF)!
+[YouTube Tutorial](https://youtu.be/Yh1iwORcRI0?si=aheY13HPLK2x-1kF)
